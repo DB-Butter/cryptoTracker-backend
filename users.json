@@ -1,0 +1,7 @@
+[
+    {
+        "username": "username",
+        "password": "password",
+        "favorites": ["https://invalidurl1.xxx/", "https://invalidurl2.xxx/"]
+    }
+]
